@@ -32,6 +32,8 @@ Offline on the same recorded survey (`auto_20261118_220947`, conf 0.15, typical 
 → The analog video, not the model, limits the class: the same kind of model gets ~11/20
 right with a clean picture and ~6–7 with the A11T picture. Finding/locating stays 85–95 %.
 
+![fig_bridge_models](../results/figures/fig_bridge_models.png)
+
 ## Road model (RDD2022 test split)
 
 mAP50 0.583 (longitudinal 0.585, transverse 0.591, alligator 0.672, pothole 0.482);
@@ -51,6 +53,8 @@ road texture itself had crack-like lines (the 1.3 false alarms / min were the mo
 those), and the plain road model lost most detections through the tilted fisheye + analog
 picture. Training on drone-view renders (E6) fixed the last one: 11 → 20 found.
 
+![fig_road_progress](../results/figures/fig_road_progress.png)
+
 ## City world (30 patches, buildings + box girder interior + tunnel)
 
 | Run | Found | Correct | + partly | False alarms | Log |
@@ -65,6 +69,8 @@ picture. Training on drone-view renders (E6) fixed the last one: 11 → 20 found
 * Weak points: the model over-predicts *corrosion_stain*; B05 (deep shadow under the deck
   overhang) is missed in every run.
 
+![fig_city_runs](../results/figures/fig_city_runs.png)
+
 ## Wind (city world)
 
 | Wind | Path deviation mean / 95 % | Closest to a wall (drone centre) | Outcome |
@@ -78,6 +84,8 @@ picture. Training on drone-view renders (E6) fixed the last one: 11 → 20 found
 now grows with the wind (14 → 20 cm in light wind).
 Caveat: the wind force was sent with the `gz topic` command (~2 updates / s, short gaps), which
 is harsher than smooth real wind.
+
+![fig_wind_path](../results/figures/fig_wind_path.png)
 
 ## Overall
 

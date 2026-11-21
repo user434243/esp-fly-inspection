@@ -37,6 +37,13 @@ models are tested on what the drone will really see.
 
 Full numbers: [docs/06_results.md](docs/06_results.md).
 
+| | |
+|---|---|
+| ![bridge models](results/figures/fig_bridge_models.png) | ![road](results/figures/fig_road_progress.png) |
+| ![city](results/figures/fig_city_runs.png) | ![wind](results/figures/fig_wind_path.png) |
+
+![architecture](results/figures/fig_architecture.png)
+
 ## Repository layout
 
 ```
@@ -61,6 +68,7 @@ docs/               full documentation (start with 01_setup.md)
 5. [Simulation](docs/05_simulation.md) — worlds, pilot / autopilot, light, wind, safety margin
 6. [Results](docs/06_results.md) — every experiment with its numbers and log folder
 7. [Logbook](docs/07_logbook.md) — what was done, in order
+8. [Report guide](docs/08_report_guide.md) — which file backs each section of report Chapters 3–5
 
 ## Quick start (simulation)
 
