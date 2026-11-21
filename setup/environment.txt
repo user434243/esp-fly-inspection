@@ -1,0 +1,8 @@
+OS:      Ubuntu 22.04.5 LTS  (kernel 6.8.0-138-generic)
+GPU:     NVIDIA GeForce RTX 4060, 580.178.04, 8188 MiB
+Python:  Python 3.10.12
+Gazebo:  Gazebo Sim, version 7.9.0
+Copyright (C) 2018 Open Source Robotics Foundation.
+Released under the Apache 2.0 License.
+Torch:   2.14.1+cu130
+YOLO:    8.4.174

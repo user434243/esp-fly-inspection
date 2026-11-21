@@ -1,0 +1,11 @@
+{
+  "name": "real A11T",
+  "hfov": 2.138,
+  "analog": "typical",
+  "lens": "/home/hudaifa/drone_ws/sim/a11t_calib.json",
+  "render_hfov": 2.3736,
+  "render_size": [
+    960,
+    720
+  ]
+}

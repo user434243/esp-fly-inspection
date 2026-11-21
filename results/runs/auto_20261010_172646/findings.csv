@@ -1,0 +1,21 @@
+id,zone,truth,predicted,frames,found_after_s,result
+D01,pier column W - west face,corrosion_stain,corrosion_stain,603,28.6,correct
+D02,pier column W - south face,exposed_bars,spallation,177,50.2,partly correct
+D03,pier column E - north face,spallation,spallation,17,100.6,correct
+D04,pier column E - east face,exposed_bars,corrosion_stain,76,81.7,partly correct
+D05,between columns - column W inner face,crack,corrosion_stain,11,142.3,WRONG CLASS
+D06,pier cap - south face,efflorescence,efflorescence,61,63.3,correct
+D07,pier cap - north face,spallation,spallation,34,117.9,correct
+D08,bay 2 - diaphragm over pier,spallation,spallation,38,59.5,correct
+D09,bay 1 - girder web,corrosion_stain,corrosion_stain,205,132.3,correct
+D10,bay 2 - girder web,spallation,corrosion_stain,41,347.0,WRONG CLASS
+D11,bay 3 - girder web,crack,crack,240,253.7,correct
+D12,bay 3 - midspan diaphragm,crack,crack,36,319.1,correct
+D13,outer girder W - side face,corrosion_stain,corrosion_stain,39,384.6,correct
+D14,outer girder E - side face,efflorescence,efflorescence,23,277.5,correct
+D15,south abutment,crack,crack,112,232.0,correct
+D16,north abutment,exposed_bars,spallation,496,408.8,partly correct
+D17,north abutment - near bearing seat,efflorescence,corrosion_stain,9,391.8,WRONG CLASS
+D18,culvert - south wall,exposed_bars,corrosion_stain,554,484.7,partly correct
+D19,culvert - north wall,corrosion_stain,corrosion_stain,258,458.3,correct
+D20,parapet - outer face,efflorescence,crack,32,212.4,WRONG CLASS

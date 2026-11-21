@@ -1,0 +1,24 @@
+path: /media/hudaifa/Ventoy/datasets/dacl19_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Crack
+  1: ACrack
+  2: Wetspot
+  3: Efflorescence
+  4: Rust
+  5: Rockpocket
+  6: Hollowareas
+  7: Cavity
+  8: Spalling
+  9: Graffiti
+  10: Weathering
+  11: Restformwork
+  12: ExposedRebars
+  13: Bearing
+  14: EJoint
+  15: Drainage
+  16: PEquipment
+  17: JTape
+  18: WConccor

@@ -1,0 +1,9 @@
+names:
+  0: crack
+  1: spallation
+  2: efflorescence
+  3: exposed_bars
+  4: corrosion_stain
+path: /media/hudaifa/Ventoy/datasets/bridge5_e6_yolo
+train: /media/hudaifa/Ventoy/datasets/bridge5_e6_yolo/train.txt
+val: /media/hudaifa/Ventoy/datasets/bridge5_e6_yolo/val.txt

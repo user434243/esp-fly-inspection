@@ -1,0 +1,13 @@
+y_m,z_m,truth,predicted,frames,avg_conf,result
+2.25,2.45,abscission,none,0,0,MISSED
+0.75,2.45,blank,none,0,0,correct (clean)
+-0.75,2.45,bulge,none,0,0,MISSED
+-2.25,2.45,corrosion,none,0,0,MISSED
+2.25,1.5,crack,none,0,0,MISSED
+0.75,1.5,corrosion,none,0,0,MISSED
+-0.75,1.5,leakage,none,0,0,MISSED
+-2.25,1.5,crack,none,0,0,MISSED
+2.25,0.55,abscission,none,0,0,MISSED
+0.75,0.55,bulge,none,0,0,MISSED
+-0.75,0.55,blank,none,0,0,correct (clean)
+-2.25,0.55,leakage,none,0,0,MISSED

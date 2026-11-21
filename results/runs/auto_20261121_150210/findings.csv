@@ -1,0 +1,31 @@
+id,zone,truth,predicted,frames,found_after_s,result
+F05,arcade - front column,efflorescence,efflorescence,10,66.1,correct
+F07,arcade - back wall,efflorescence,efflorescence,222,79.2,correct
+F06,arcade - middle column,spallation,corrosion_stain,15,78.0,WRONG CLASS
+F02,B1 facade - 1st floor,corrosion_stain,corrosion_stain,98,118.9,correct
+F04,B1 facade - under balcony,crack,spallation,977,129.1,WRONG CLASS
+F03,B1 balcony front,crack,none,0,-1,MISSED
+F01,B1 facade - 2nd floor,corrosion_stain,corrosion_stain,1510,153.1,correct
+F08,alley - B1 wall low,crack,corrosion_stain,17,227.0,WRONG CLASS
+F10,alley - B1 wall high,exposed_bars,exposed_bars,236,255.6,correct
+F09,alley - B2 wall,corrosion_stain,corrosion_stain,305,275.8,correct
+F11,B2 facade,exposed_bars,corrosion_stain,1451,323.7,partly correct
+B04,bridge pier 2 - east face,efflorescence,efflorescence,95,363.1,correct
+B03,bridge pier 2 - north face,spallation,spallation,9,397.5,correct
+B07,east abutment,spallation,corrosion_stain,65,419.9,WRONG CLASS
+B06,box girder - north web,spallation,spallation,77,444.0,correct
+B02,bridge pier 1 - south face,crack,spallation,4,491.2,WRONG CLASS
+B01,bridge pier 1 - west face,exposed_bars,spallation,1164,507.3,partly correct
+B05,"box girder - south web, under the cantilever",efflorescence,none,0,-1,MISSED
+C01,INSIDE cell 1 - south web,exposed_bars,spallation,505,567.1,partly correct
+C02,INSIDE cell 1 - diaphragm by the manhole,crack,crack,4,589.7,correct
+C03,INSIDE cell 1 - middle web,crack,spallation,106,609.7,WRONG CLASS
+C04,INSIDE cell 2 - middle web,corrosion_stain,corrosion_stain,2046,625.9,correct
+C05,INSIDE cell 2 - north web,spallation,corrosion_stain,96,661.9,WRONG CLASS
+C06,INSIDE cell 2 - end diaphragm,corrosion_stain,corrosion_stain,248,674.5,correct
+T01,TUNNEL - south wall,efflorescence,corrosion_stain,75,803.8,WRONG CLASS
+T02,TUNNEL - north wall,corrosion_stain,spallation,605,813.3,WRONG CLASS
+T03,TUNNEL - south wall,exposed_bars,corrosion_stain,1133,841.7,partly correct
+T04,TUNNEL - corner wall,spallation,spallation,555,841.4,correct
+T05,TUNNEL - branch west wall,efflorescence,efflorescence,338,874.7,correct
+T06,TUNNEL - dead end,exposed_bars,corrosion_stain,518,890.2,partly correct

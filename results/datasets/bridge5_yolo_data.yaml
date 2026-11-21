@@ -1,0 +1,10 @@
+path: /media/hudaifa/Ventoy/datasets/bridge5_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: crack
+  1: spallation
+  2: efflorescence
+  3: exposed_bars
+  4: corrosion_stain

@@ -1,0 +1,21 @@
+id,zone,truth,predicted,frames,found_after_s,result
+R01,west lane - right wheel track,pothole,pothole,750,25.0,correct
+R02,west lane - centre,transverse_crack,transverse_crack,492,45.5,correct
+R03,west lane - left wheel track,pothole,pothole,913,13.0,correct
+R04,west lane - near centre line,transverse_crack,transverse_crack,245,70.1,correct
+R05,west lane - near kerb,longitudinal_crack,longitudinal_crack,356,82.6,correct
+R06,west lane - on the zebra crossing,alligator_crack,alligator_crack,232,103.4,correct
+R07,west lane - after the crossing,alligator_crack,longitudinal_crack,99,114.5,WRONG CLASS
+R08,west lane - right wheel track,pothole,pothole,336,125.8,correct
+R09,west lane - centre,pothole,longitudinal_crack,613,135.2,WRONG CLASS
+R10,east lane - centre,alligator_crack,alligator_crack,229,152.3,correct
+R11,east lane - near kerb,transverse_crack,transverse_crack,616,166.5,correct
+R12,east lane - near centre line,pothole,pothole,215,113.5,correct
+R13,east lane - left wheel track,longitudinal_crack,transverse_crack,134,192.7,WRONG CLASS
+R14,east lane - on the zebra crossing,transverse_crack,transverse_crack,282,202.0,correct
+R15,east lane - right wheel track,alligator_crack,alligator_crack,89,215.9,correct
+R16,east lane - centre,transverse_crack,transverse_crack,76,232.9,correct
+R17,east lane - after the manhole,alligator_crack,longitudinal_crack,69,244.3,WRONG CLASS
+R18,east lane - near centre line,longitudinal_crack,longitudinal_crack,416,252.9,correct
+R19,east lane - near kerb,longitudinal_crack,transverse_crack,284,278.1,WRONG CLASS
+R20,east lane - centre,longitudinal_crack,longitudinal_crack,397,286.2,correct

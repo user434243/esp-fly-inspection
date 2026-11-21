@@ -1,0 +1,18 @@
+# big or generated files - not for git
+*.pt
+*.onnx
+*.engine
+*.mp4
+*.avi
+*.zip
+*.sdf
+*.obj
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# backups made by the patch scripts
+*.py.pre*
+*.py.cam
+*.py.old
+*.py.prevote
+venv/

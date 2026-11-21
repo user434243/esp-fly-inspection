@@ -1,0 +1,425 @@
+{
+  "world": "bridge_full",
+  "decals": [
+    {
+      "id": "D01",
+      "class": "corrosion_stain",
+      "also_present": [],
+      "zone": "pier column W - west face",
+      "centre": [
+        2.69,
+        0.0,
+        1.0
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0672.jpg"
+    },
+    {
+      "id": "D02",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "crack",
+        "spallation"
+      ],
+      "zone": "pier column W - south face",
+      "centre": [
+        3.0,
+        -0.31,
+        0.6
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0000749.jpg"
+    },
+    {
+      "id": "D03",
+      "class": "spallation",
+      "also_present": [],
+      "zone": "pier column E - north face",
+      "centre": [
+        5.0,
+        0.31,
+        1.2
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001107.jpg"
+    },
+    {
+      "id": "D04",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "efflorescence"
+      ],
+      "zone": "pier column E - east face",
+      "centre": [
+        5.31,
+        0.0,
+        0.8
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0793.jpg"
+    },
+    {
+      "id": "D05",
+      "class": "crack",
+      "also_present": [],
+      "zone": "between columns - column W inner face",
+      "centre": [
+        3.31,
+        0.0,
+        1.4
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001108.jpg"
+    },
+    {
+      "id": "D06",
+      "class": "efflorescence",
+      "also_present": [],
+      "zone": "pier cap - south face",
+      "centre": [
+        4.0,
+        -0.41,
+        2.02
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0031.jpg"
+    },
+    {
+      "id": "D07",
+      "class": "spallation",
+      "also_present": [
+        "efflorescence"
+      ],
+      "zone": "pier cap - north face",
+      "centre": [
+        2.8,
+        0.41,
+        2.02
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0330.jpg"
+    },
+    {
+      "id": "D08",
+      "class": "spallation",
+      "also_present": [
+        "corrosion_stain"
+      ],
+      "zone": "bay 2 - diaphragm over pier",
+      "centre": [
+        4.0,
+        -0.11,
+        2.86
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0302.jpg"
+    },
+    {
+      "id": "D09",
+      "class": "corrosion_stain",
+      "also_present": [],
+      "zone": "bay 1 - girder web",
+      "centre": [
+        2.57,
+        -2.5,
+        2.86
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0882.jpg"
+    },
+    {
+      "id": "D10",
+      "class": "spallation",
+      "also_present": [],
+      "zone": "bay 2 - girder web",
+      "centre": [
+        4.43,
+        3.0,
+        2.86
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0206.jpg"
+    },
+    {
+      "id": "D11",
+      "class": "crack",
+      "also_present": [],
+      "zone": "bay 3 - girder web",
+      "centre": [
+        4.57,
+        -6.0,
+        2.86
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001124.jpg"
+    },
+    {
+      "id": "D12",
+      "class": "crack",
+      "also_present": [],
+      "zone": "bay 3 - midspan diaphragm",
+      "centre": [
+        5.0,
+        4.39,
+        2.86
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0000688.jpg"
+    },
+    {
+      "id": "D13",
+      "class": "corrosion_stain",
+      "also_present": [],
+      "zone": "outer girder W - side face",
+      "centre": [
+        2.43,
+        6.0,
+        2.86
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0135.jpg"
+    },
+    {
+      "id": "D14",
+      "class": "efflorescence",
+      "also_present": [],
+      "zone": "outer girder E - side face",
+      "centre": [
+        5.57,
+        -3.0,
+        2.86
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0459.jpg"
+    },
+    {
+      "id": "D15",
+      "class": "crack",
+      "also_present": [],
+      "zone": "south abutment",
+      "centre": [
+        3.0,
+        -8.99,
+        1.2
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.8,
+      "height": 0.6,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0784.jpg"
+    },
+    {
+      "id": "D16",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "spallation"
+      ],
+      "zone": "north abutment",
+      "centre": [
+        5.0,
+        8.99,
+        0.8
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.8,
+      "height": 0.6,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001414.jpg"
+    },
+    {
+      "id": "D17",
+      "class": "efflorescence",
+      "also_present": [],
+      "zone": "north abutment - near bearing seat",
+      "centre": [
+        2.5,
+        8.99,
+        1.8
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0046.jpg"
+    },
+    {
+      "id": "D18",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "efflorescence",
+        "spallation"
+      ],
+      "zone": "culvert - south wall",
+      "centre": [
+        2.5,
+        13.51,
+        0.55
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001594.jpg"
+    },
+    {
+      "id": "D19",
+      "class": "corrosion_stain",
+      "also_present": [
+        "crack"
+      ],
+      "zone": "culvert - north wall",
+      "centre": [
+        5.5,
+        14.49,
+        0.55
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001542.jpg"
+    },
+    {
+      "id": "D20",
+      "class": "efflorescence",
+      "also_present": [],
+      "zone": "parapet - outer face",
+      "centre": [
+        1.79,
+        -5.0,
+        3.85
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001217.jpg"
+    }
+  ]
+}

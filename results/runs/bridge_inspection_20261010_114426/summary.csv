@@ -1,0 +1,13 @@
+y_m,z_m,truth,also_present,predicted,frames,avg_conf,result
+2.25,2.45,spallation,,none,0,0,MISSED
+0.75,2.45,blank,,none,0,0,correct (clean)
+-0.75,2.45,exposed_bars,corrosion_stain;spallation,none,0,0,MISSED
+-2.25,2.45,exposed_bars,corrosion_stain;efflorescence,none,0,0,MISSED
+2.25,1.5,efflorescence,,none,0,0,MISSED
+0.75,1.5,crack,,none,0,0,MISSED
+-0.75,1.5,corrosion_stain,crack,none,0,0,MISSED
+-2.25,1.5,efflorescence,,none,0,0,MISSED
+2.25,0.55,spallation,,none,0,0,MISSED
+0.75,0.55,corrosion_stain,,none,0,0,MISSED
+-0.75,0.55,blank,,none,0,0,correct (clean)
+-2.25,0.55,crack,,none,0,0,MISSED

@@ -1,0 +1,31 @@
+id,zone,truth,predicted,frames,found_after_s,result
+F05,arcade - front column,efflorescence,none,0,-1,MISSED
+F07,arcade - back wall,efflorescence,none,0,-1,MISSED
+F06,arcade - middle column,spallation,none,0,-1,MISSED
+F02,B1 facade - 1st floor,corrosion_stain,none,0,-1,MISSED
+F04,B1 facade - under balcony,crack,none,0,-1,MISSED
+F03,B1 balcony front,crack,none,0,-1,MISSED
+F01,B1 facade - 2nd floor,corrosion_stain,none,0,-1,MISSED
+F08,alley - B1 wall low,crack,none,0,-1,MISSED
+F10,alley - B1 wall high,exposed_bars,none,0,-1,MISSED
+F09,alley - B2 wall,corrosion_stain,none,0,-1,MISSED
+F11,B2 facade,exposed_bars,none,0,-1,MISSED
+B04,bridge pier 2 - east face,efflorescence,none,0,-1,MISSED
+B03,bridge pier 2 - north face,spallation,none,0,-1,MISSED
+B07,east abutment,spallation,none,0,-1,MISSED
+B06,box girder - north web,spallation,none,0,-1,MISSED
+B02,bridge pier 1 - south face,crack,none,0,-1,MISSED
+B01,bridge pier 1 - west face,exposed_bars,none,0,-1,MISSED
+B05,"box girder - south web, under the cantilever",efflorescence,none,0,-1,MISSED
+C01,INSIDE cell 1 - south web,exposed_bars,none,0,-1,MISSED
+C02,INSIDE cell 1 - diaphragm by the manhole,crack,none,0,-1,MISSED
+C03,INSIDE cell 1 - middle web,crack,none,0,-1,MISSED
+C04,INSIDE cell 2 - middle web,corrosion_stain,none,0,-1,MISSED
+C05,INSIDE cell 2 - north web,spallation,none,0,-1,MISSED
+C06,INSIDE cell 2 - end diaphragm,corrosion_stain,none,0,-1,MISSED
+T01,TUNNEL - south wall,efflorescence,none,0,-1,MISSED
+T02,TUNNEL - north wall,corrosion_stain,none,0,-1,MISSED
+T03,TUNNEL - south wall,exposed_bars,none,0,-1,MISSED
+T04,TUNNEL - corner wall,spallation,none,0,-1,MISSED
+T05,TUNNEL - branch west wall,efflorescence,none,0,-1,MISSED
+T06,TUNNEL - dead end,exposed_bars,none,0,-1,MISSED

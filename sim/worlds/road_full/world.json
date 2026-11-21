@@ -1,0 +1,20 @@
+{
+  "name": "road_full",
+  "kind": "road",
+  "model": "rdd4_y11s_e6.pt",
+  "conf": 0.2,
+  "camera_pitch_deg": 55,
+  "standoff": 1.4,
+  "closer": [
+    1.0,
+    0.75
+  ],
+  "map_x": [
+    -4,
+    10
+  ],
+  "map_y": [
+    -12,
+    18
+  ]
+}

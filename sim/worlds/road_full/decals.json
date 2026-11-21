@@ -1,0 +1,607 @@
+{
+  "world": "road_full",
+  "decals": [
+    {
+      "id": "R01",
+      "class": "pothole",
+      "also_present": [],
+      "zone": "west lane - right wheel track",
+      "centre": [
+        2.3,
+        -9.0,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 1,
+      "approach_yaw": 90.0,
+      "lane": "north in the west lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000404.jpg",
+      "crop": [
+        146,
+        312,
+        346,
+        512
+      ]
+    },
+    {
+      "id": "R02",
+      "class": "transverse_crack",
+      "also_present": [],
+      "zone": "west lane - centre",
+      "centre": [
+        3.25,
+        -6.4,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 2,
+      "approach_yaw": 90.0,
+      "lane": "north in the west lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_001658.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R03",
+      "class": "pothole",
+      "also_present": [
+        "alligator_crack"
+      ],
+      "zone": "west lane - left wheel track",
+      "centre": [
+        2.55,
+        -3.7,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 3,
+      "approach_yaw": 90.0,
+      "lane": "north in the west lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000487.jpg",
+      "crop": [
+        0,
+        227,
+        200,
+        427
+      ]
+    },
+    {
+      "id": "R04",
+      "class": "transverse_crack",
+      "also_present": [],
+      "zone": "west lane - near centre line",
+      "centre": [
+        3.45,
+        -1.1,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 4,
+      "approach_yaw": 90.0,
+      "lane": "north in the west lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000060.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R05",
+      "class": "longitudinal_crack",
+      "also_present": [],
+      "zone": "west lane - near kerb",
+      "centre": [
+        2.15,
+        1.5,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 5,
+      "approach_yaw": 90.0,
+      "lane": "north in the west lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_002083.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R06",
+      "class": "alligator_crack",
+      "also_present": [],
+      "zone": "west lane - on the zebra crossing",
+      "centre": [
+        2.8,
+        6.3,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 6,
+      "approach_yaw": 90.0,
+      "lane": "north in the west lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_001189.jpg",
+      "crop": [
+        95,
+        0,
+        419,
+        324
+      ]
+    },
+    {
+      "id": "R07",
+      "class": "alligator_crack",
+      "also_present": [],
+      "zone": "west lane - after the crossing",
+      "centre": [
+        2.95,
+        9.5,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 7,
+      "approach_yaw": 90.0,
+      "lane": "north in the west lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_001722.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R08",
+      "class": "pothole",
+      "also_present": [],
+      "zone": "west lane - right wheel track",
+      "centre": [
+        2.3,
+        12.3,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 8,
+      "approach_yaw": 90.0,
+      "lane": "north in the west lane",
+      "dataset": "RDD2022 India",
+      "source_image": "India_003161.jpg",
+      "crop": [
+        120,
+        302,
+        451,
+        633
+      ]
+    },
+    {
+      "id": "R09",
+      "class": "pothole",
+      "also_present": [],
+      "zone": "west lane - centre",
+      "centre": [
+        3.3,
+        15.3,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 9,
+      "approach_yaw": 90.0,
+      "lane": "north in the west lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000286.jpg",
+      "crop": [
+        0,
+        244,
+        249,
+        493
+      ]
+    },
+    {
+      "id": "R10",
+      "class": "alligator_crack",
+      "also_present": [],
+      "zone": "east lane - centre",
+      "centre": [
+        6.0,
+        15.6,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 10,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000161.jpg",
+      "crop": [
+        79,
+        116,
+        334,
+        371
+      ]
+    },
+    {
+      "id": "R11",
+      "class": "transverse_crack",
+      "also_present": [],
+      "zone": "east lane - near kerb",
+      "centre": [
+        6.85,
+        12.9,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 11,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000135.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R12",
+      "class": "pothole",
+      "also_present": [],
+      "zone": "east lane - near centre line",
+      "centre": [
+        5.55,
+        10.3,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 12,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 India",
+      "source_image": "India_003186.jpg",
+      "crop": [
+        41,
+        302,
+        372,
+        633
+      ]
+    },
+    {
+      "id": "R13",
+      "class": "longitudinal_crack",
+      "also_present": [],
+      "zone": "east lane - left wheel track",
+      "centre": [
+        6.4,
+        7.9,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 13,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_001364.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R14",
+      "class": "transverse_crack",
+      "also_present": [],
+      "zone": "east lane - on the zebra crossing",
+      "centre": [
+        6.25,
+        5.3,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 14,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000698.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R15",
+      "class": "alligator_crack",
+      "also_present": [],
+      "zone": "east lane - right wheel track",
+      "centre": [
+        6.7,
+        2.7,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 15,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000507.jpg",
+      "crop": [
+        257,
+        301,
+        468,
+        512
+      ]
+    },
+    {
+      "id": "R16",
+      "class": "transverse_crack",
+      "also_present": [],
+      "zone": "east lane - centre",
+      "centre": [
+        5.7,
+        0.1,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 16,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000599.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R17",
+      "class": "alligator_crack",
+      "also_present": [],
+      "zone": "east lane - after the manhole",
+      "centre": [
+        6.55,
+        -2.5,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 17,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000191.jpg",
+      "crop": [
+        87,
+        267,
+        332,
+        512
+      ]
+    },
+    {
+      "id": "R18",
+      "class": "longitudinal_crack",
+      "also_present": [],
+      "zone": "east lane - near centre line",
+      "centre": [
+        5.65,
+        -5.1,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 18,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_000980.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R19",
+      "class": "longitudinal_crack",
+      "also_present": [],
+      "zone": "east lane - near kerb",
+      "centre": [
+        6.95,
+        -7.7,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 19,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_001335.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "id": "R20",
+      "class": "longitudinal_crack",
+      "also_present": [],
+      "zone": "east lane - centre",
+      "centre": [
+        6.1,
+        -10.3,
+        0.03
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "width": 1.2,
+      "height": 1.2,
+      "yaw": 0.0,
+      "order": 20,
+      "approach_yaw": -90.0,
+      "lane": "south in the east lane",
+      "dataset": "RDD2022 China_Drone",
+      "source_image": "China_Drone_001275.jpg",
+      "crop": [
+        0,
+        0,
+        512,
+        512
+      ]
+    }
+  ]
+}

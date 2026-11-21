@@ -1,0 +1,720 @@
+{
+  "world": "city_full",
+  "decals": [
+    {
+      "id": "F05",
+      "class": "efflorescence",
+      "also_present": [
+        "crack"
+      ],
+      "zone": "arcade - front column",
+      "tip": "fly south to the low arcade",
+      "order": 1,
+      "centre": [
+        9.4,
+        -4.19,
+        1.3
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.36,
+      "height": 0.27,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0000503.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F07",
+      "class": "efflorescence",
+      "also_present": [],
+      "zone": "arcade - back wall",
+      "tip": "into the arcade between the columns (2.6 m ceiling)",
+      "order": 2,
+      "centre": [
+        10.6,
+        -6.99,
+        1.4
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0467.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F06",
+      "class": "spallation",
+      "also_present": [],
+      "zone": "arcade - middle column",
+      "tip": "east inside the arcade, face the column",
+      "order": 3,
+      "centre": [
+        13.99,
+        -5.7,
+        1.0
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.36,
+      "height": 0.27,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0035.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F02",
+      "class": "corrosion_stain",
+      "also_present": [],
+      "zone": "B1 facade - 1st floor",
+      "tip": "out of the arcade, climb to 4.2 m",
+      "order": 4,
+      "centre": [
+        15.6,
+        -3.99,
+        4.2
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0770.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F04",
+      "class": "crack",
+      "also_present": [
+        "corrosion_stain"
+      ],
+      "zone": "B1 facade - under balcony",
+      "tip": "slide west under the balcony",
+      "order": 5,
+      "centre": [
+        13.2,
+        -3.99,
+        4.3
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0829.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F03",
+      "class": "crack",
+      "also_present": [],
+      "zone": "B1 balcony front",
+      "tip": "climb over to the west balcony, 6.25 m",
+      "order": 6,
+      "centre": [
+        9.0,
+        -2.99,
+        6.25
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0000647.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F01",
+      "class": "corrosion_stain",
+      "also_present": [],
+      "zone": "B1 facade - 2nd floor",
+      "tip": "climb to 7.4 m between the windows",
+      "order": 7,
+      "centre": [
+        10.8,
+        -3.99,
+        7.4
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0974.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F08",
+      "class": "crack",
+      "also_present": [],
+      "zone": "alley - B1 wall low",
+      "tip": "down into the 1.0 m alley",
+      "order": 8,
+      "centre": [
+        17.51,
+        -9.0,
+        1.5
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0000446.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F10",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "spallation"
+      ],
+      "zone": "alley - B1 wall high",
+      "tip": "deep in the alley, climb past the beam",
+      "order": 9,
+      "centre": [
+        17.51,
+        -11.0,
+        6.0
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0583.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F09",
+      "class": "corrosion_stain",
+      "also_present": [],
+      "zone": "alley - B2 wall",
+      "tip": "turn round, face the other wall",
+      "order": 10,
+      "centre": [
+        18.49,
+        -10.0,
+        3.5
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0239.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "F11",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "efflorescence",
+        "spallation"
+      ],
+      "zone": "B2 facade",
+      "tip": "out of the alley, east along B2",
+      "order": 11,
+      "centre": [
+        26.2,
+        -3.99,
+        4.8
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001594.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "B04",
+      "class": "efflorescence",
+      "also_present": [],
+      "zone": "bridge pier 2 - east face",
+      "tip": "north to the bridge, under the deck",
+      "order": 12,
+      "centre": [
+        23.61,
+        10.0,
+        3.0
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0441.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "B03",
+      "class": "spallation",
+      "also_present": [
+        "corrosion_stain"
+      ],
+      "zone": "bridge pier 2 - north face",
+      "tip": "round the pier, low",
+      "order": 13,
+      "centre": [
+        23.0,
+        12.01,
+        1.5
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0079.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "B07",
+      "class": "spallation",
+      "also_present": [],
+      "zone": "east abutment",
+      "tip": "east under the bridge end",
+      "order": 14,
+      "centre": [
+        29.99,
+        10.5,
+        2.0
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.8,
+      "height": 0.6,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0340.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "B06",
+      "class": "spallation",
+      "also_present": [],
+      "zone": "box girder - north web",
+      "tip": "climb beside the girder, 5.5 m",
+      "order": 15,
+      "centre": [
+        26.0,
+        12.51,
+        5.5
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0429.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "B02",
+      "class": "crack",
+      "also_present": [],
+      "zone": "bridge pier 1 - south face",
+      "tip": "west along the south side",
+      "order": 16,
+      "centre": [
+        14.0,
+        8.99,
+        2.5
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0595.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "B01",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "spallation"
+      ],
+      "zone": "bridge pier 1 - west face",
+      "tip": "round the pier, low",
+      "order": 17,
+      "centre": [
+        13.39,
+        10.5,
+        1.2
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0000405.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "B05",
+      "class": "efflorescence",
+      "also_present": [],
+      "zone": "box girder - south web, under the cantilever",
+      "tip": "up under the deck overhang",
+      "order": 18,
+      "centre": [
+        11.0,
+        8.49,
+        5.5
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.6,
+      "height": 0.45,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0000541.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "C01",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "spallation"
+      ],
+      "zone": "INSIDE cell 1 - south web",
+      "tip": "up through the 0.8 m HATCH into the box",
+      "order": 19,
+      "centre": [
+        11.0,
+        8.76,
+        5.5
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0000310.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "C02",
+      "class": "crack",
+      "also_present": [],
+      "zone": "INSIDE cell 1 - diaphragm by the manhole",
+      "tip": "east in cell 1 to the pier diaphragm",
+      "order": 20,
+      "centre": [
+        13.84,
+        10.15,
+        5.5
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.4,
+      "height": 0.3,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0377.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "C03",
+      "class": "crack",
+      "also_present": [],
+      "zone": "INSIDE cell 1 - middle web",
+      "tip": "through the MANHOLE",
+      "order": 21,
+      "centre": [
+        17.0,
+        10.39,
+        5.5
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0674.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "C04",
+      "class": "corrosion_stain",
+      "also_present": [],
+      "zone": "INSIDE cell 2 - middle web",
+      "tip": "through the cross-over hole into cell 2",
+      "order": 22,
+      "centre": [
+        21.0,
+        10.61,
+        5.5
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0537.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "C05",
+      "class": "spallation",
+      "also_present": [],
+      "zone": "INSIDE cell 2 - north web",
+      "tip": "through the 2nd manhole",
+      "order": 23,
+      "centre": [
+        26.0,
+        12.24,
+        5.5
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0888.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "C06",
+      "class": "corrosion_stain",
+      "also_present": [],
+      "zone": "INSIDE cell 2 - end diaphragm",
+      "tip": "to the dead end, then all the way back to the hatch",
+      "order": 24,
+      "centre": [
+        29.69,
+        11.4,
+        5.5
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0491.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "T01",
+      "class": "efflorescence",
+      "also_present": [],
+      "zone": "TUNNEL - south wall",
+      "tip": "north to the berm, into the 0.8 m tunnel",
+      "order": 25,
+      "centre": [
+        6.0,
+        17.61,
+        0.6
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001217.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "T02",
+      "class": "corrosion_stain",
+      "also_present": [],
+      "zone": "TUNNEL - north wall",
+      "tip": "deeper, other wall",
+      "order": 26,
+      "centre": [
+        9.0,
+        18.39,
+        0.6
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0251.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "T03",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "spallation"
+      ],
+      "zone": "TUNNEL - south wall",
+      "tip": "deeper",
+      "order": 27,
+      "centre": [
+        12.5,
+        17.61,
+        0.6
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001419.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "T04",
+      "class": "spallation",
+      "also_present": [],
+      "zone": "TUNNEL - corner wall",
+      "tip": "to the corner",
+      "order": 28,
+      "centre": [
+        15.99,
+        18.0,
+        0.6
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0077.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "T05",
+      "class": "efflorescence",
+      "also_present": [],
+      "zone": "TUNNEL - branch west wall",
+      "tip": "turn north into the branch",
+      "order": 29,
+      "centre": [
+        15.21,
+        19.8,
+        0.6
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "dacl10k",
+      "source_image": "dacl_dacl10k_v2_validation_0268.jpg",
+      "mirrored": false
+    },
+    {
+      "id": "T06",
+      "class": "exposed_bars",
+      "also_present": [
+        "corrosion_stain",
+        "spallation"
+      ],
+      "zone": "TUNNEL - dead end",
+      "tip": "to the dead end, then back out and home",
+      "order": 30,
+      "centre": [
+        15.6,
+        21.59,
+        0.6
+      ],
+      "normal": [
+        0,
+        -1,
+        0
+      ],
+      "width": 0.48,
+      "height": 0.36,
+      "dataset": "CODEBRIM",
+      "source_image": "cb_image_0001414.jpg",
+      "mirrored": false
+    }
+  ]
+}

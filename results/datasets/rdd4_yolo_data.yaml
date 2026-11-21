@@ -1,0 +1,9 @@
+path: /media/hudaifa/Ventoy/datasets/rdd4_yolo
+train: images/train
+val: images/val
+names:
+- longitudinal_crack
+- transverse_crack
+- alligator_crack
+- pothole
+test: images/test
